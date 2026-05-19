@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Srushti Pawar
 
-<!--
-**srushtipawar-finance/srushtipawar-finance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an MS Finance student at The University of Texas at Dallas, building practical finance projects across FP&A, corporate finance, wealth management, financial planning, credit risk, valuation, and finance analytics.
 
-Here are some ideas to get you started:
+My portfolio focuses on applying finance concepts with tools commonly used in analyst roles, including Excel, SQL, Python, Power BI, and PowerPoint.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- FP&A and corporate finance
+- Financial modeling and forecasting
+- Budget vs actual variance analysis
+- Wealth management and financial planning
+- Credit risk and commercial banking
+- Valuation and investment analysis
+- Finance analytics using SQL, Python, and Power BI
+
+## Featured Project
+
+### AI-Enabled FP&A Command Center
+Revenue forecasting, budget variance, P&L scenario planning, fintech unit economics, churn, CAC, EBITDA, cash runway, and executive dashboarding.
+
+## Upcoming Projects
+- Credit Risk Dashboard
+- Wealth Management Financial Planning Case Study
+- DCF Valuation Model
+- Portfolio Optimization with Python
+
+## Tools
+Excel | SQL | Python | Power BI | PowerPoint
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/srushtip02
